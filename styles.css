@@ -26,6 +26,7 @@ h1{
     margin-top: 10px;
     font: size 1.em;
     font-weight: 700;
+    color: var(--dark-blue);
     text-align:center;
     background-color: inherit;
 }
